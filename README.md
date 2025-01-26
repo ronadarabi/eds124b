@@ -6,3 +6,4 @@
 
 [VIDEO: Repeat Animal Parade](https://youtu.be/1sEyhoAF_m4)
 
+[VIDEO: Mouse draws an octagon in order to eat cheese!](https://youtu.be/j4COZGI16vc)
