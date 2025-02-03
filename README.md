@@ -9,3 +9,5 @@
 [VIDEO: Mouse draws an octagon in order to eat cheese!](https://youtu.be/j4COZGI16vc)
 
 [VIDEO: Monkey catches the banana!](https://youtu.be/sZ1WxU4eNeU)
+
+[VIDEO: WP_Variables](https://youtu.be/xGtJ4CnQy2c)
