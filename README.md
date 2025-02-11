@@ -1,5 +1,6 @@
 # Rona Darabi's EDS124BR Portfolio
 
+[VIDEO: If-Else](https://youtu.be/QX6CtnQq_gA)
 [VIDEO: Conditional loops](https://youtu.be/ABBow_hL7xI)
 
 [VIDEO: WP_Variables](https://youtu.be/xGtJ4CnQy2c)
