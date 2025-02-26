@@ -1,5 +1,7 @@
 # Rona Darabi's EDS124BR Portfolio
 
+[VIDEO: Blocks](https://youtu.be/JwJWZ47iVFQ)
+
 [VIDEO: Compound Conditionals](https://youtu.be/a2Rj5zRxnRk)
 
 [VIDEO: Nested If-Else](https://youtu.be/YkbQm5oKY5E)
