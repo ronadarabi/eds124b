@@ -1,5 +1,6 @@
 # Rona Darabi's EDS124BR Portfolio
 
+[VIDEO: Lists](https://youtu.be/lxYZNg6WKjc)
 [VIDEO: Blocks](https://youtu.be/JwJWZ47iVFQ)
 
 [VIDEO: Compound Conditionals](https://youtu.be/a2Rj5zRxnRk)
